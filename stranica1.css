@@ -1,0 +1,37 @@
+.forma {
+width: 500px;
+border: 10px solid greenyellow;
+justify-content: center;
+padding-top: 20px;
+padding-bottom: 20px;;
+padding-right: 20px;
+padding-left: 20px;
+display:grid;
+grid-template-columns: max-content;
+grid-gap:10px;
+justify-content:center;
+text-align:right;
+
+
+}
+.trecired{
+    background-color:lightgreen;
+}
+.unos {
+    display:inline-block;
+}
+.prezime{
+    text-align:right;
+}
+.ime{
+    text-align:center;
+}
+.jmbg{
+    text-align:left;
+}
+#drugired
+{
+    text-align: right;
+	background-color:lightgreen;
+	color: red;
+}
